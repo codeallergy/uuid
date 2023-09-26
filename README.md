@@ -1,5 +1,7 @@
 # uuid
 
+![build workflow](https://github.com/codeallergy/uuid/actions/workflows/build.yaml/badge.svg)
+
 Golang UUID implementation that supports TimeUUID version
 
 ### Quick start example:
